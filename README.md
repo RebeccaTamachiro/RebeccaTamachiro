@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rebecca 
 
-You probably wouldn't guess but I am Brazilian (!), from São Paulo, and I have moved to Lisbon in 2017.
+You probably wouldn't guess but I am Brazilian, from São Paulo, and I have moved to Lisbon in 2017.
 
 I am currently working as a Technical Writer but I also really enjoy coding and learning about new tech and collaboration platforms.
 
