@@ -2,19 +2,21 @@
 
 You probably wouldn't guess but I am Brazilian, from São Paulo, and I have moved to Lisbon in 2017.
 
-I am currently working as a Technical Writer but I also really enjoy coding and learning about new tech and collaboration platforms.
+I currently work as a **Technical Writer** but I also really enjoy coding and learning about new tech and collaboration platforms.
 
 ## :rocket: So far...
 
-Back in my hometown I have graduated in Linguistics and here in Portugal I took a Post-Graduate course in Digital Communication.
+Back in my hometown I have graduated in Linguistics and in Portugal I took a Post-Graduate course in Digital Communication.
 
-In 2019, and after I got my first job in tech working as a support agent for Pipedrive, I started to get increasingly interested in web and software development and ever since I have been attending workshops, presentations and basicaly using all the time I can to learn more and work on side projects.
+In 2019, and after I got my first job in tech - working as a support agent for **Pipedrive** -, I became increasingly interested about web and software development.
+
+From October 2020 to August 2022, I have worked as a Technical Writer at SISCOG, developing and maintaining user documentation about their decision support applications.
 
 ## :round_pushpin: What now?
 
-I am currently working at SISCOG, a software house focussed on decision support applications.
+I am currently focussed on improving my Technical Communication skills and maintaing familiriaty with stack I have already been introduced to - HTML, CSS, JS, React.
 
-Besides keeping up with what I have learned already - HTML, CSS, JS, React -, I am also on the watch out for developments in Data Science and naturally focussing on cultivating my user documentation skills :seedling:. 
+Having had contact with some development processes, I find the concept of **Docs-as-Code** very interesting and I also like the **Diátaxis framework** for the approach and structuring of user documentation.
 
 ##
 <p align="center"> 
