@@ -10,7 +10,7 @@ Back in my hometown I have graduated in Linguistics and in Portugal I took a Pos
 
 In 2019, and after I got my first job in tech - working as a support agent for **Pipedrive** -, I became increasingly interested about web and software development.
 
-From October 2020 to August 2022, I have worked as a Technical Writer at SISCOG, developing and maintaining user documentation about their decision support applications.
+From May 2021 to August 2022, I have worked as a Technical Writer at SISCOG, developing and maintaining user documentation about their decision support applications.
 
 ## :round_pushpin: What now?
 
