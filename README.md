@@ -16,11 +16,11 @@ From May 2021 to August 2022, I have worked as a Technical Writer at SISCOG, dev
 
 I am currently focussed on improving my Technical Communication skills and maintaing familiriaty with stack I have already been introduced to - HTML, CSS, JS, React.
 
-Having had contact with some development processes, I find the concept of **Docs-as-Code** very interesting and I also like the **Diátaxis framework** for the approach and structuring of user documentation.
+Having had contact with some development processes, I find the concept of **Docs-as-Code** very interesting and I also like the **Diátaxis framework** for the approach and structuring of user documentation. 
 
 ##
 <p align="center"> 
-  <a href="mailto:rebecca2t@gmail.com">rebecca2t@gmail.com</a> | <a href="https://www.linkedin.com/in/rebeccatamachiro" target="_blank">in/rebeccatamachiro</a>
+  <a href="https://www.linkedin.com/in/rebeccatamachiro" target="_blank">in/rebeccatamachiro</a>
 </p>
 
 <!--
