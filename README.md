@@ -18,6 +18,8 @@ I am currently focussed on improving my Technical Communication skills and maint
 
 Having had contact with some development processes, I find the concept of **Docs-as-Code** very interesting and I also like the **Diátaxis framework** for the approach and structuring of user documentation. 
 
+I have recently joined the Product Content Experience team at **Cloudflare**.
+
 ##
 <p align="center"> 
   <a href="https://www.linkedin.com/in/rebeccatamachiro" target="_blank">in/rebeccatamachiro</a>
