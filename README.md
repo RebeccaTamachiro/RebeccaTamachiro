@@ -2,13 +2,13 @@
 
 You probably wouldn't guess but I am Brazilian, from São Paulo, and I have moved to Lisbon in 2017.
 
-I currently work as a **Technical Writer** but I also really enjoy coding and learning about new tech and collaboration platforms.
+I currently work as a **Technical Writer** at **Cloudflare** but I also really enjoy coding and learning about new tech.
 
 ## :rocket: So far...
 
 Back in my hometown I have graduated in Linguistics and in Portugal I took a Post-Graduate course in Digital Communication.
 
-In 2019, and after I got my first job in tech - working as a support agent for **Pipedrive** -, I became increasingly interested about web and software development.
+In 2019, and after I got my first job in tech - working as a support agent for **Pipedrive** -, I became increasingly interested in web and software development.
 
 From May 2021 to August 2022, I have worked as a Technical Writer at SISCOG, developing and maintaining user documentation about their decision support applications.
 
@@ -16,9 +16,7 @@ From May 2021 to August 2022, I have worked as a Technical Writer at SISCOG, dev
 
 I am currently focussed on improving my Technical Communication skills and maintaing familiriaty with stack I have already been introduced to - HTML, CSS, JS, React.
 
-Having had contact with some development processes, I find the concept of **Docs-as-Code** very interesting and I also like the **Diátaxis framework** for the approach and structuring of user documentation. 
-
-I have recently joined the Product Content Experience team at **Cloudflare**.
+Having had contact with some development processes, I enjoy following a **Docs-as-Code** approach and I also like the **Diátaxis framework** for content structuring in user documentation.
 
 ##
 <p align="center"> 
